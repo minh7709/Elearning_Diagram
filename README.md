@@ -3,7 +3,9 @@
 --
 ## Sequense Diagram:
 ***Teacher***
-![Teacher Sequense](./Giảng Viên.png)
+--
+![Teacher Sequense](./GV.png)
+--
 ***Student***
 ![Student Sequense](./student.png)
 --
